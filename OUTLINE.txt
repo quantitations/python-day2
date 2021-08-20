@@ -1,0 +1,14 @@
+SESSION 1 (data science)
+
+- scipy_basics.py
+- open Jupyter Notebook
+- jupyter_basics.ipynb
+- plotting.ipynb
+- scikit_learn_basics.py
+
+
+
+SESSION 2 (project)
+
+- federalist_papers_download.py
+- federalist_papers_analysis.ipynb
