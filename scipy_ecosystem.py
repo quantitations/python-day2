@@ -77,7 +77,6 @@ np.linalg.svd(b) # singular value decomposition
 np.cos(np.pi)
 np.exp(np.log(np.sqrt(25)))
 
-
 # https://www.numpy.org/devdocs/user/quickstart.html
 
 
