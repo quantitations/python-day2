@@ -1,4 +1,4 @@
-SESSION 1 (data science)
+# SESSION 3 (Data Science and Machine Learning)
 
 - scipy_ecosystem.py
 - open Jupyter Notebook
@@ -8,7 +8,7 @@ SESSION 1 (data science)
 
 
 
-SESSION 2 (project)
+# SESSION 4 (Project)
 
 - federalist_papers_download.py
 - federalist_papers_analysis.ipynb
